@@ -1,11 +1,11 @@
 # visualSort
 
 A desktop app for visualizing a bunch of different sorting algorithms like 
-*Bubble Sort, 
-*Insertion Sort, 
-*Merge Sort, 
-*Quick Sort, 
-*Heap Sort 
+* Bubble Sort, 
+* Insertion Sort, 
+* Merge Sort, 
+* Quick Sort, 
+* Heap Sort 
 with functionality of (Speed control) and (Array Size Control).
 
 ### ScreenShots:
